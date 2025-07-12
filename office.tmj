@@ -337,46 +337,41 @@
                  "y":14.0269116471316
                 }, 
                 {
-  "height": 128,
-  "id": 13,
-  "name": "customIframeChillZone",
-  "properties": [
-    {
-      "name": "focusable",
-      "type": "bool",
-      "value": true
-    },
-    {
-      "name": "iframeLayer",
-      "type": "bool",
-      "value": true
-    },
-    {
-      "name": "url",
-      "type": "string",
-      "value": "https://www.rollingstone.com/wp-content/uploads/2024/12/C_Arcane_u_S2_00_24_00_15_R60.jpg"
-    },
-    {
-      "name": "openWebsiteTrigger",
-      "type": "string",
-      "value": "onaction"
-    },
-    {
-      "name": "zoom_margin",
-      "type": "float",
-      "value": 1
-    }
-  ],
-  "rotation": 0,
-  "type": "area",
-  "visible": true,
-  "width": 192,
-  "x": 32,
-  "y": 96
-}, {
+                 "height":128,
+                 "id":13,
+                 "name":"jitsiChillZone",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"ChillZone"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":192,
+                 "x":32,
+                 "y":96
+                }, 
+                {
   "height": 224,
   "id": 16,
-  "name": "customImageRoom",
+  "name": "tetrisRoom",
   "properties": [
     {
       "name": "focusable",
@@ -384,24 +379,9 @@
       "value": true
     },
     {
-      "name": "iframeLayer",
-      "type": "bool",
-      "value": true
-    },
-    {
-      "name": "url",
+      "name": "openWebsite",
       "type": "string",
-      "value": "https://upload.wikimedia.org/wikipedia/en/7/7d/League_of_Legends_Arcane_Poster.jpg"
-    },
-    {
-      "name": "openWebsiteTrigger",
-      "type": "string",
-      "value": "onenter"
-    },
-    {
-      "name": "zoom_margin",
-      "type": "float",
-      "value": 1
+      "value": "https://games.coolgames.com/tetris-lottery/en/3.2/index.html"
     }
   ],
   "rotation": 0,
@@ -411,8 +391,7 @@
   "x": 768,
   "y": 224
 }
-
-, 
+,
                 {
                  "height":39.6969696969697,
                  "id":17,
