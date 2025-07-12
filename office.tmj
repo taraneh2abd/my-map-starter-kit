@@ -376,12 +376,12 @@
     {
       "name": "focusable",
       "type": "bool",
-      "value": true
+      "value": false
     },
     {
       "name": "openWebsite",
       "type": "string",
-      "value": "https://en.wikipedia.org/wiki/Tara"
+      "value": "http://212.23.201.109:3000/admin"
     }
   ],
   "rotation": 0,
@@ -390,8 +390,7 @@
   "width": 192,
   "x": 768,
   "y": 224
-}
-,
+},
                 {
                  "height":39.6969696969697,
                  "id":17,
