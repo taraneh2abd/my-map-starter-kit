@@ -373,11 +373,10 @@
   "width": 192,
   "x": 32,
   "y": 96
-}, 
-                {
+}, {
   "height": 224,
   "id": 16,
-  "name": "customIframeMeetingRoom",
+  "name": "customImageRoom",
   "properties": [
     {
       "name": "focusable",
@@ -392,7 +391,7 @@
     {
       "name": "url",
       "type": "string",
-      "value": "https://www.rollingstone.com/wp-content/uploads/2024/12/C_Arcane_u_S2_00_24_00_15_R60.jpg"
+      "value": "https://upload.wikimedia.org/wikipedia/en/7/7d/League_of_Legends_Arcane_Poster.jpg"
     },
     {
       "name": "openWebsiteTrigger",
@@ -412,6 +411,7 @@
   "x": 768,
   "y": 224
 }
+
 , 
                 {
                  "height":39.6969696969697,
