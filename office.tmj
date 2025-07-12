@@ -381,7 +381,7 @@
     {
       "name": "openWebsite",
       "type": "string",
-      "value": "http://212.23.201.109:3000/admin"
+      "value": "https://karsooghmehregan.ir/admin"
     }
   ],
   "rotation": 0,
