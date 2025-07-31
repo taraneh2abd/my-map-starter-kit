@@ -342,24 +342,9 @@
                  "name":"jitsiChillZone",
                  "properties":[
                         {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
+                         "value":"https://docs.google.com/forms/d/e/1FAIpQLSe6RoXaj_7-o6uFCQVFqRkYeq84TiBtq5kYoJ7tNV7Qto3Mmg/viewform?usp=dialog"
                         }],
                  "rotation":0,
                  "type":"area",
